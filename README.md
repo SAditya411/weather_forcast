@@ -18,9 +18,6 @@ This Power BI project presents an interactive **Weather Forecast Dashboard** tha
 * 📱 **Modern UI Design**: Inspired by web dashboards with card visuals, clean fonts, and KPI indicators.
 
 ## 📷 Sample Visuals
-
-> *(Add screenshots of your dashboard here by uploading `.png` or `.jpg` images)*
-> Example:
 > ![Dashboard Preview](images/dashboard_preview.png)
 
 ## 🧠 Skills Demonstrated
